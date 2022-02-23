@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap);
+@import './based/normalize';
+@import './based/general';
+@import './utils/variables';
+
+@import './components/header-items/header';
+@import './components/main-index/hero';
+@import './components/main-index/benefits';
+@import './components/main-index/activity';
+@import './components/main-index/staff';
+@import './components/main-index/client';
+@import './components/footer-items/footer';
+@import './components/footer-items/footer-social';
+@import './components/footer-items/footer-subscribe';
+
+@import './components/main-modal/modal';
+
+@import './components/portfolio/portfolio-block';
+@import './components/portfolio/portfolio-button';
+
+
